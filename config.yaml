@@ -25,3 +25,8 @@ menu:
     weight: 100
     params:
       blank: true
+      
+# site default language
+defaultContentLanguage: fr 
+# xml rss feed
+languageCode: fr
